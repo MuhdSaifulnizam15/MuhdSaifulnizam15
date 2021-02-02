@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Quiz App
+- 🔭 I’m currently working on Quiz Web App and Ecommerce Web App
 - 🌱 I’m currently learning Laravel Framework
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with backend development
