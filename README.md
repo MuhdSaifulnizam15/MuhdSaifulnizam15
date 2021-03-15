@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Quiz Web App and Mobile App using Laravel as the backend, bootstrap (stisla UI) on web front-end and react native for android mobile app
+- 🔭 I’m currently working on Quiz Web App and Mobile App using NodeJS as the backend, bootstrap (stisla UI) on web front-end and react native for android mobile app
 - 🌱 I’m currently learning Laravel Framework
 - 👯 I’m looking to collaborate on Laravel or React Native Project
 - 🤔 I’m looking for help with backend development
